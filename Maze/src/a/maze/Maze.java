@@ -20,6 +20,7 @@ public class Maze {
 		generateMaze(x, y);
 		maze[width - 2][height - 2].setStatus(3);
 	}
+	//didnt work
 
 	private void generateMaze(int x, int y) {
 		maze = new Cell[x][y];
