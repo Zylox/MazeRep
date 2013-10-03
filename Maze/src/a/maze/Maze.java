@@ -24,6 +24,7 @@ public class Maze {
 	//hope this doesnt get erased
 	
 	//comment
+	//comment2
 	
 	private void generateMaze(int x, int y) {
 		maze = new Cell[x][y];
