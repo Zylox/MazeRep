@@ -22,6 +22,9 @@ public class Maze {
 	}
 	//didnt work
 	//hope this doesnt get erased
+	
+	//comment
+	
 	private void generateMaze(int x, int y) {
 		maze = new Cell[x][y];
 
