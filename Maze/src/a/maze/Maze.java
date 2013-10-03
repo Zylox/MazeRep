@@ -21,7 +21,7 @@ public class Maze {
 		maze[width - 2][height - 2].setStatus(3);
 	}
 	//didnt work
-
+	//hope this doesnt get erased
 	private void generateMaze(int x, int y) {
 		maze = new Cell[x][y];
 
